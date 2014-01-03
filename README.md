@@ -1128,4 +1128,4 @@ http://www.zabbix.com/
 		"formula": "1"
 	}],
 	"jsonrpc": "2.0"
-}
+	}
